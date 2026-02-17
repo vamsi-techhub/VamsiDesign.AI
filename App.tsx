@@ -72,7 +72,7 @@ const App = () => {
                </svg>
             </div>
             <div>
-              <h1 className="text-xl font-bold text-white tracking-tight">Vamsi<span className="text-lumina-400">Design</span>.AI</h1>
+              <h1 className="text-xl font-bold text-white tracking-tight">Gruha <span className="text-lumina-400">Alankara</span> Interior</h1>
             </div>
           </div>
           
